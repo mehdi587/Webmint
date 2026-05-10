@@ -35,7 +35,7 @@ export function Header() {
         <nav className="flex items-center justify-between">
           <a href="#" className="flex items-center gap-2">
             <img
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Gemini_Generated_Image_ui7xamui7xamui7x-removebg-preview-nz3qAn3XQGPk6yauTFuS9fdgwvzGrQ.png"
+              src="https://ibb.co/7xFzSg2T"
               alt="WebMint.dev Logo"
               className="h-24 w-auto"
             />
