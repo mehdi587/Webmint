@@ -35,7 +35,7 @@ export function Header() {
         <nav className="flex items-center justify-between">
           <a href="#" className="flex items-center gap-2">
             <img
-              src="https://i.ibb.co/wZ1LdJMb/Chat-GPT-Image-30-avr-2026-00-09-42.png"
+              src="https://i.postimg.cc/fTMQzPMv/Chat-GPT-Image-30-avr-2026-00-09-42.png"
               alt="WebMint.dev Logo"
               className="h-24 w-auto"
             />
